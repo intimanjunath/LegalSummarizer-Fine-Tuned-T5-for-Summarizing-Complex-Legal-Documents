@@ -82,4 +82,3 @@ The model is deployed on [Hugging Face Hub](https://huggingface.co/manjunathaint
 1. Install necessary libraries:
    ```bash
    pip install transformers datasets
-```
