@@ -27,7 +27,6 @@ This model can generate:
 
 ---
 
----
 library_name: transformers
 tags:
   - summarization
